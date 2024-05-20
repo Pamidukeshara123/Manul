@@ -17,10 +17,10 @@ global.location = "Lumajang, Jatim, Indonesia" //ur location
 
 //new
 global.botname = 'Manul_Official_WhatsApp_Bot_MD V12' //ur bot name
-global.ownernumber = '94742274855' //ur owner number
-global.ownername = '©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠' //ur owner name
+global.ownernumber = '94704020146' //ur owner number
+global.ownername = '𝚳𝚪 𝐊𝚵𝐒𝚮𝚫𝚪𝚫' //ur owner name
 global.websitex = "https://github.com/manulofficial7"
-global.wagc = "https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN"
+global.wagc = "https://chat.whatsapp.com/I2HL92C6awH7aQh5B0RNLt"
 global.themeemoji = '🪀'
 global.wm = "Manu Bot Inc."
 global.botscript = 'https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4' //script link
@@ -28,7 +28,7 @@ global.packname = "Sticker By"
 global.author = "©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠ Xeon\n\n+94742274855"
 global.creator = "94742274855@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["94742274855"] // Premium User
+global.premium = ["94704020146"] // Premium User
 global.hituet = 0
 
 //bot sett
